@@ -5,3 +5,4 @@ faiss-cpu
 sentence_transformers
 gdown
 pickle
+fastapi
